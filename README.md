@@ -16,16 +16,11 @@ Análise comparativa entre cinco variantes do modelo YOLO11 (nano, small, medium
 | YOLO11l | 32,9 | 17 | 8 | 8 | — | 1 |
 | YOLO11x | 56,0 | 22 | 12 | 9 | — | 1 |
 
-## Como executar
-
-### Pré-requisitos
-
-- Conta no [Google Colab](https://colab.research.google.com/)
-- GPU ativada (Runtime → Change runtime type → T4 GPU)
+# Como executar
 
 ### Passos
 
-1. Abra o arquivo `notebook.ipynb` no Google Colab
+1. Abra o arquivo `notebook.ipynb`
 2. Execute as células na ordem (Shift+Enter)
 3. Os resultados e imagens anotadas serão gerados automaticamente
 
